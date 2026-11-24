@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Try the 50/30/20 rule",
+    "description": "Put 50% of your income towards needs, 30% towards wants and 20% towards savings or paying off debt.",
+    "category": "Budgeting",
+    "image_url": "https://raw.githubusercontent.com/YOUR_USERNAME/budgetpulse-content/main/images/budget_rule.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pay yourself first",
+    "description": "Move money into savings the day your income arrives, before you spend on anything else.",
+    "category": "Savings",
+    "image_url": "https://raw.githubusercontent.com/YOUR_USERNAME/budgetpulse-content/main/images/save_first.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Track small daily spending",
+    "description": "Coffee, snacks and delivery fees add up. Logging every expense for a month shows where your money really goes.",
+    "category": "Spending",
+    "image_url": "https://raw.githubusercontent.com/YOUR_USERNAME/budgetpulse-content/main/images/small_spending.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Build an emergency fund",
+    "description": "Aim for three to six months of essential expenses in an easy-to-reach account so surprises don't become debt.",
+    "category": "Savings",
+    "image_url": "https://raw.githubusercontent.com/YOUR_USERNAME/budgetpulse-content/main/images/emergency_fund.jpg"
+  }
+]
